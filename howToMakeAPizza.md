@@ -11,3 +11,5 @@ Paso a paso para hacer la pizza
 5. Esparce un poco de la salsa de tomate, agrega queso, coloca el jamón y la piña.
 
 6. Hornea a 200°C por 20 minutos.
+
+7. Saca la pizza del horno, córtala, sirve y disfruta.
