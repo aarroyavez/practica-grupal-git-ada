@@ -9,3 +9,5 @@ Paso a paso para hacer la pizza
 4. Una vez que la masa haya doblado su tamaño, estírala la masa para pizza y colócala sobre una charola. 
 
 5. Esparce un poco de la salsa de tomate, agrega queso, coloca el jamón y la piña.
+
+6. Hornea a 200°C por 20 minutos.
